@@ -1,1 +1,1 @@
-print("this is a new Text editor project")
+print("this is a new Text editor")
